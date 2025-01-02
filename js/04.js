@@ -76,3 +76,5 @@ x=10;
 
 var x;
 console.log('-----------'+x);//10
+
+// clint side rendering vs server side rendering 
